@@ -1,0 +1,2 @@
+# This project has no external dependencies
+# The file is included for standardization and future extensions 
